@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "TabsList",
+    "name": "TabList",
     "version": "0.5",
     "description": "カレントChromeウィンドウのタブ一覧を表示する",
     "permissions": [
